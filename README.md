@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lacidamarketing
-- 👀 I’m interested in c#, php, mysql, css, ruby on rails
+- 👀 I’m interested in c#, php, mysql, css, ruby on rails, python django
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on asp .net, making games and desktop applications
-- 📫 How to reach me my email is lacidmarketing@gmail.com
+- 📫 How to reach me my email is dforthster@gmail.com
 
 <!---
 lacidamarketing/lacidamarketing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
